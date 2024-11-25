@@ -3,7 +3,7 @@
 [![NPM version](https://img.shields.io/npm/v/blog.svg?style=flat)](https://npmjs.org/package/blog)
 [![NPM downloads](http://img.shields.io/npm/dm/blog.svg?style=flat)](https://npmjs.org/package/blog)
 
-A react library developed with dumi
+A react blog developed with dumi
 
 ## Usage
 
